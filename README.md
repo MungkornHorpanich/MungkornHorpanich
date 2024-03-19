@@ -9,7 +9,7 @@ I'm a web developer based in the Thailand area. I'm 14 years old, and I'm passio
 * 🌍  I'm based in Chonburi, Thailand
 * 🖥️  See my portfolio at [WhileDev](http://whiledev.site)
 * ✉️  You can contact me at [MungkornHorpanich@gmail.com](mailto:MungkornHorpanich@gmail.com)
-* 🧠  I'm learning Machine Learning and Game Development
+* 🧠  I'm learning AI development
 
 ### Skills
 

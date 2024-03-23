@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Indie Developer
 ---------------
 
-I'm a web developer based in the Thailand area. I'm 14 years old, and I'm passionate about software development because of the diversity of technology I get to learn and code.
+I'm an indie deverloper based in the Thailand area. I'm 14 years old, and I'm passionate about software development because of the diversity of technology I get to learn and code.
 
 * 🌍  I'm based in Chonburi, Thailand
 * 🖥️  See my portfolio at [WhileDev](http://whiledev.site)

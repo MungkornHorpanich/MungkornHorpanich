@@ -6,7 +6,7 @@ Indie Developer
 
 I'm an indie deverloper based in the Thailand area. I'm 14 years old, and I'm passionate about software development because of the diversity of technology I get to learn and code.
 
-* 🌍  I'm based in Chonburi, Thailand
+* 🌍  I'm based in Chonburi, Thailand.
 * 🖥️  See my portfolio at [WhileDev](http://whiledev.site)
 * ✉️  You can contact me at [MungkornHorpanich@gmail.com](mailto:MungkornHorpanich@gmail.com)
 
